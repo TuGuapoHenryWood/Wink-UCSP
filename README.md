@@ -1,4 +1,4 @@
-# wink-UCSP
+# Wink-UCSP
 
 El programa W;nk es un proyecto pasion mio desde Febrero 2022, este programa que se presenta es una conceptualizacion de como funcionaria esta aplicacion
 

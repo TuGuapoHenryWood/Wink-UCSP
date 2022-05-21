@@ -11,7 +11,9 @@ El programa aparte de generar piropos, permite que el usuario pueda realizar dis
 - Crear piropo
 - Borrar piropo
 
+
 Este es un ejemplo de funcionamiento para entender como se puede interactuar con el programa, y cuales son sus funciones principales:
+
 
 - - - - [ W;NK ] - - - -
 

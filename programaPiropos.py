@@ -141,7 +141,7 @@ def crearLista():
         input("\nNO TIENES PIROPOS GUARDADOS AUN")
     else:
         seleccion = int(input(
-            "\nCUAL [N°] DE PIROPO DE " + "\n".join(bookmarks) + "\nDESEAS TENER EN TU LISTA " + "\n".join(listaPersonal) + ": "))
+            "\nCUAL [N°] DE PIROPO DE \n" + "\n".join(bookmarks) + "\nDESEAS TENER EN TU LISTA " + "\n".join(listaPersonal) + ": "))
         listaPersonal.append(bookmarks[seleccion - 1])
         input("\nLISTA PERSONAL = " + str(listaPersonal))
 
